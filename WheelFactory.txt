@@ -4,3 +4,4 @@ feature001의 첫번째 작업 사항
 feature002의 첫번째 작업 사항
 feature003의 첫번째 작업 사항 (wheel frame 17인치)
 feature003의 두번째 작업 사항 (wheel frame 20인치)
+feature004의 첫번째 작업 사항 (한국타이어와의 연결)
